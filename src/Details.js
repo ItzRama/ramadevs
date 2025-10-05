@@ -36,7 +36,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Fajar Ramadhani Putra Armadi",
-  tagline: "I'm an ambitious 17 years old developer from Bali, Indonesia.",
+  tagline: "Ambitious 17-year-old developer from Bali.",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
 };
@@ -52,25 +52,39 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Founder",
+    Company: `Potensia`,
+    Location: "Indonesia",
+    Type: "Part-Time",
+    Duration: "Aug 2025 - Present",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Lead Developer",
+    Company: `Lucky Network`,
+    Location: "Singapore",
+    Type: "Part-Time",
+    Duration: "Sep 2022 - Present",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Owner",
+    Company: `GB STORE`,
+    Location: "Indonesia",
+    Type: "Full-Time",
+    Duration: "March 2021 - Present",
+  },
+  {
+    Position: "Junior Developer",
+    Company: `AcentraMC`,
+    Location: "United States",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "May 2021 - Jan 2022",
+  },
+  {
+    Position: "Backend Engineer",
+    Company: `AL-SMP`,
+    Location: "Indonesia",
+    Type: "Internship",
+    Duration: "March 2023 - March 2023",
   },
 ];
 
