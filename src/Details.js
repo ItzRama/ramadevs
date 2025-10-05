@@ -38,7 +38,7 @@ export const personalDetails = {
   name: "Fajar Ramadhani Putra Armadi",
   tagline: "Ambitious 17-year-old developer from Bali.",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I'm a 17-year-old developer from Bali, Indonesia, with a strong passion for software engineering and robotics. Despite my age, I've already completed over 100 projects across various platforms and worked with international teams. At 16, I scored an IQ of 144, which reflects my analytical mindset and drive for excellence. Currently, I'm focused on building innovative tech projects while sharpening my competitive programming and mathematical problem-solving skills. I thrive on challenges that demand both creativity and precision. Outside of coding, I enjoy playing badminton and soccer, reading books, and constantly learning new things to expand my horizons and shape a meaningful future through technology.`,
 };
 
 // Enter your Social Media URLs here
