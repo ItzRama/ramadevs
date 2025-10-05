@@ -35,8 +35,8 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Fajar Ramadhani Putra Armadi",
+  tagline: "I'm an ambitious 17 years old developer from Bali, Indonesia.",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
 };
