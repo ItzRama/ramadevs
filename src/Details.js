@@ -225,11 +225,10 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Cashmate",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A fully integrated banking system built for Growtopia-based servers, supporting both real-world currency and in-game transactions. Designed with a strong focus on quality and scalability, it features seamless integration with payment gateways like Tokopedia, real-time stock and item management, and multi-platform compatibility. The system includes secure user authentication, role-based access control, encrypted transaction logs, and dynamic dashboards for admins and players. It also offers a robust API for external services, automated reporting, and modular architecture for easy maintenance. Whether you're managing player economies or real-money purchases, this system bridges both worlds with precision, performance, and reliability.`,
+    techstack: "Kotlin & Java (Backend), Python (Payment Gateway), Lua (Scripting)",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
