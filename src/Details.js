@@ -233,11 +233,10 @@ export const projectDetails = [
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 2",
+    title: "Potensia",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A fully integrated Ruangguru like app but implemented in Discord. It contains so many feature that makes it unique by itself.`,
+    techstack: "Java (Backend), Javascript (Front-End), Python (Backend)",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
@@ -281,6 +280,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "fajaryanes@gmail.com",
+  phone: "+62 821 4458 7869",
 };
